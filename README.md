@@ -55,7 +55,9 @@ Authors
 =======
 
 Originally created and maintained by [Casey Ransom](https://github.com/cransom)
+
 Hijacked by [Paul Hinze](https://github.com/phinze)
+
 Hijacked by [Eugene Taranov](https://github.com/eugenetaranov)
 
 License
