@@ -1,4 +1,5 @@
-Based on github.com/terraform-community-modules/tf_aws_vpc
+Based on https://github.com/terraform-community-modules/tf_aws_vpc
+
 Added NAT instances, separate route tables for each private subnet - NAT pair.
 
 vpc terraform module
